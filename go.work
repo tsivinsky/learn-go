@@ -4,4 +4,5 @@ use (
 	./greet
 	./hello
 	./image-processing
+	./pointers
 )
